@@ -1,6 +1,6 @@
 # Hi !!! Try my best to do myself.
 
-[![Lei's GitHub stats](https://github-readme-stats.vercel.app/api?username=naylenv)](https://github.com/anuraghazra/github-readme-stats)
+[![Lei's GitHub stats](https://github-readme-stats.vercel.app/api?username=naylenv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
